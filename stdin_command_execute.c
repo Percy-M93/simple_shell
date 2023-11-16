@@ -57,7 +57,7 @@ void signal_to_handle(int sig)
 {
 	if (sig == SIGINT)
 	{
-		PRINT("\n$ ");
+		PRINT("\nPercy's_shell $ ");
 	}
 }
 

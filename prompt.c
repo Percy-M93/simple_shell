@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * prompt - function that prints '$' to standard output
+ * prompt - function that prints 'Percy's_shell$' to standard output
  */
 void prompt(void)
 {
-	PRINT("$ ");
+	PRINT("Percy's_shell$");
 }
 
